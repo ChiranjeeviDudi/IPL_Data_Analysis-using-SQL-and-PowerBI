@@ -1,1 +1,2 @@
-# IPL_Data_Analysis using SQL and PowerBI
+# IPL_Data_Analysis using PostgreSQL and PowerBI
+In this project 
