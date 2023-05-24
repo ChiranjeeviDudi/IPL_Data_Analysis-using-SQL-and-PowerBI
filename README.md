@@ -1,1 +1,1 @@
-# IPL_Data_Analysis-using-SQL-and-PowerBI
+# IPL_Data_Analysis using SQL and PowerBI
