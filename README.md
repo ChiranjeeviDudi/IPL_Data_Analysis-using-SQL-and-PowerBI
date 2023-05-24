@@ -8,9 +8,9 @@ PostgreSQL: Data Importing,
             Connecting PostgreSQl to PowerBI for further process like building Dashboards.                                                                                                                                                                                                                                                 
 PowerBI   : After connecting to the PostgreSQL following steps were performed 
 
-Load tables to Transform the Data : Data cleaning like removing irreavant data like null values,duplicate values, formatting the data etc.                         
-Data modelling : In this operation we build certain relations through the primary key in the(Fact Table) to the foreign keys in the (Dimension Tables).               
-Data Processing : Building certain DAX measures by the tables data as per requirements.p
+Loading tables to Transform the Data : Data cleaning like removing irreavant data like null values,duplicate values, formatting the data etc.                         
+Data modelling : Building relations through the primary key in the(Fact Table) to the foreign keys in the (Dimension Tables).               
+Data Processing : Performing certain DAX measures by the tables data as per requirements.
            
  
  
