@@ -4,8 +4,11 @@ In this project i have used tools like PostgreSQL and PowerBI, In this Project I
 
 In the process of building this project i have used ccertain tools and operations i have done
 
-PostgreSQL: Data Importing, Data Retriving from the Database, Connecting PostgreSQl for further process like building Dashboards.                                     
-PowerBI   : Comming to the PowerBi 
+PostgreSQL: Data Importing,
+            Data Retriving from the Database,
+            Connecting PostgreSQl to PowerBI for further process like building Dashboards.                                     
+PowerBI   : After connecting to the PostgreSQL,
+           
  
  
 
