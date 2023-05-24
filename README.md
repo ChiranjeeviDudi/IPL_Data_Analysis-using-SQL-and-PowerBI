@@ -1,2 +1,3 @@
-# IPL_Data_Analysis using PostgreSQL and PowerBI
-In this project 
+# IPL_Data_Analysis_Project using PostgreSQL and PowerBI
+This project is developed for analyzing Indian Premier League (IPL) dataset for finding the key values of the data very easily.
+
