@@ -7,7 +7,8 @@ In the process of building this project i have used ccertain tools and operation
 PostgreSQL: Data Importing,
             Data Retriving from the Database,
             Connecting PostgreSQl to PowerBI for further process like building Dashboards.                                     
-PowerBI   : After connecting to the PostgreSQL,
+PowerBI   : After connecting to the PostgreSQL following steps were performed                                                                                            step 1 : We load tables to transform the Data : Data cleaning like removing irreavant data like null values,duplicate values, formatting the data etc.
+   step 2 : Data modelling : In this operation we build certain relations through the primary key in the(Fact Table) to the foreign keys in the (Dimension Tables).      step 3 : Data Processing : Building certain DAX measures by the tables data as per requirements.
            
  
  
