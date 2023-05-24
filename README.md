@@ -8,10 +8,10 @@ POSTGRESQL: Data Importing,
             Connecting PostgreSQl to PowerBI for further process like building Dashboards.                                                                                                                                                                                                                                                 
 POWERBI   : After connecting to the PostgreSQL following steps were performed 
 
-Loading tables to Transform the Data : Data cleaning like removing irreavant data like null values,duplicate values, formatting the data etc.                         
+Loading tables to Transform the Data : Data cleaning process in Power Query Editor like removing irreavant data like null values,duplicate values, formatting the data etc.                         
 Data modelling : Building relations through the primary key in the(Fact Table) to the foreign keys in the (Dimension Tables).               
 Data Processing : Performing certain DAX measures by the tables data as per requirements.                                                                             
-Data Visualization : Dealing with visuals data is be used to represent like in Bar Charts, Maps, Line Charts, Cards, Pie Charts
+Data Visualization : Dealing with visuals data is be used to represent like in Bar Charts, Maps, Line Charts, KPI Cards, Pie Charts etc
            
  
  
