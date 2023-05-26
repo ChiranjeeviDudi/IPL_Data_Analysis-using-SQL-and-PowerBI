@@ -1,4 +1,4 @@
--- Created the tables with required columns
+-- Created the tables with required columns 
 CREATE TABLE ipl_Data
 (
     id int8 PRIMARY KEY,
