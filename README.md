@@ -1,6 +1,8 @@
 # IPL_Data_Analysis_Project using PostgreSQL and PowerBI
 This project is developed for analyzing Indian Premier League (IPL) dataset for finding the key insights of the data in the form of visuals
-In this project i have used tools like PostgreSQL and PowerBI and I have worked on some of the aspects like: Requirements Gathering, Processing the Data, Analyzing the Data and finally building the reports as per the requirements with generating the necessary key insights
+In this project i have used tools like PostgreSQL and PowerBI and I have worked on some of the aspects like: Requirements Gathering, Processing the Data, Analyzing the Data and finally building the reports as per the requirements with generating the necessary key insights.
+OBJECTIVE : The main agenda of this project is to help the Stake holders/ End users to take data driven decisions about the particular player based on his performace through out different seasons in order to select best players into their team to achieve good success by selecting best players.
+In this project we can treat BCCI, IPL Team Owners as our end users.
 
 In the process of building this project i have used certain tools and operations such as :                                                                                                                                                                                                                                               
 * POSTGRESQL: Data Importing,
